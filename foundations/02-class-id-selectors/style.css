@@ -1,0 +1,23 @@
+p {
+    background-color: #ff505080;
+    font-size: 16px;
+    font-family: verdana, sans-serif;
+}
+
+.large {
+    font-size: 24px
+}
+
+#num2 {
+    color: #0000ff;
+    font-size: 36px;
+    font-family: "DejaVu Sans", sans-serif;
+}
+
+#num4 {
+    background-color: #00ff0080;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "DejaVu Sans", sans-serif;
+
+}
